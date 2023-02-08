@@ -1,0 +1,15 @@
+{
+  "name": "thumbnails-create",
+  "version": "1.0.0",
+  "description": "製作自己的網頁縮圖書籤",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^19.6.3"
+  }
+}
